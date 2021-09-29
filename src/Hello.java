@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("What's up?\nLet's go");
         System.out.print("Hvad såååå");
         System.out.print("neeeej");
+        System.out.println("Giiiit");
     }
 }
